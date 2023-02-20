@@ -4716,7 +4716,7 @@ textarea.form-control-lg {
 }
 .accordion-button:focus {
   z-index: 3;
-  border-color: #8ddece;
+  border-color: transparent;
   outline: 0;
 }
 
